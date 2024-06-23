@@ -4,12 +4,12 @@ Professional Software Quality Assurance Engineer since 2021
 
 Professional Attributes
 ▬▬▬▬▬▬▬▬▬▬▬
-✔ Team player
-✔ Problem-solving skills
-✔ The ability to multitask
-✔ Reliable
-✔ The ability to prioritize
-✔ Efficient
+✔ Team player <br />
+✔ Problem-solving skills <br />
+✔ The ability to multitask <br />
+✔ Reliable <br />
+✔ The ability to prioritize <br />
+✔ Efficient <br />
 
 Areas of Expertise:
 ▬▬▬▬▬▬▬▬▬
