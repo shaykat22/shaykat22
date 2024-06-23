@@ -13,10 +13,10 @@ Professional Attributes<br />
 Areas of Expertise:<br />
 ▬▬▬▬▬▬▬▬▬ <br />
 » Manual Testing: I can write, execute, and evaluate test cases, as well as track and report bugs using tools like Jira.<br />
-» Programming Languages: I have proficiency in JavaScript, C, and Java and I can use them for various testing and development purposes.<br />
+» Programming Languages: I have proficiency in JavaScript and Python I can use it for various testing and development purposes.<br />
 » API Testing: I can test APIs with Postman and verify their functionality, performance, and security.<br />
 » Performance Testing: I can conduct load, stress, and capacity testing with JMeter and analyze the results and bottlenecks of the system under test.<br />
-» Databases: I have hands-on experience in writing complex SQL queries in MySQL databases. <br />
+» Databases: I have hands-on experience in writing SQL queries in MySQL databases. <br />
 
 Fields​ ​of​ ​Technical​ ​Skill:<br />
 ▬▬▬▬▬▬▬▬▬▬<br />
@@ -28,7 +28,6 @@ Fields​ ​of​ ​Technical​ ​Skill:<br />
 » Testing Tools: Postman, JMeter, Selenium <br />
 » Project Management Tools: Jira, Clickup<br />
 » Version Control: Git<br />
-» Software Developments: SRS, UML Diagram, Use Case<br />
 » Diagram Tool: Draw.io, Figma <br />
 
 I'm always eager to learn new technologies and tools to enhance my skills and knowledge. I'm also a team player who can collaborate effectively with other developers and testers. <br />
