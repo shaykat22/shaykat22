@@ -1,5 +1,4 @@
-### Hi there 👋 I AM SHAFINUR RAHMAN <br />
-Professional Software Quality Assurance Engineer since 2021 <br />
+A Software Quality Engineer, able to do requirement analysis, review documents, create and execute test cases, write bug reports, follow up with the development team, apply regression tests, use test management tools such as Jira and Clickup, and perform API testing with Postman. Proficient in Agile methodologies, manual testing, and self-learning in automation testing concepts and tools like Selenium web driver with Python.<br />
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ <br />
 
 Professional Attributes<br />
